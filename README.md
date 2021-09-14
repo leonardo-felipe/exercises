@@ -1,4 +1,4 @@
 # SoloLearnExercises
 
-Some SoloLearn Exercises that I've done. 
-You can also check my profile there: https://www.sololearn.com/profile/19114354
+Alguns exercícios que resolvi no SoloLearn 
+Link do meu Perfil: https://www.sololearn.com/profile/19114354
