@@ -1,4 +1,4 @@
-# SoloLearnExercises
+# Python Exercises
 
 Alguns exercícios que resolvi no SoloLearn.
 
